@@ -35,7 +35,10 @@ Run the script
 The application will open a window with real-time object detection from your webcam.
 Press **q** to exit the application.
 
+Output likes
 ![1](https://github.com/user-attachments/assets/2b14b7be-91f3-4271-b704-aa3feff0355f)
+![2](https://github.com/user-attachments/assets/1b8ad7e7-3481-493e-b7cc-72cbe987d7a7)
+
 
 
 
